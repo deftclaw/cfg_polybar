@@ -1,0 +1,2 @@
+icon=
+printf "$icon\n"
